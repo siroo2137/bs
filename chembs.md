@@ -46,36 +46,6 @@ $$m_1 \cdot C_{p1} + m_2 \cdot C_{p2} = (m_1 + m_2) \cdot C_{pk}$$
 *   **Dosypywanie substancji:** wstawiasz $C_{p} = 100\%$ (bo to czysta substancja).
 
 ---
-
-### 5. Metoda Krzyża (Szybki sposób na proporcje)
-Stosujemy ją, gdy chcemy obliczyć, **w jakim stosunku wagowym** zmieszać dwa roztwory, aby otrzymać trzeci o konkretnym stężeniu.
-
-**Schemat:**
-Wpisujemy stężenia roztworów, które mamy ($C_1, C_2$), a na środku stężenie, które chcemy uzyskać ($C_k$). Odejmujemy na ukos (zawsze mniejszą liczbę od większej).
-
-$$
-\begin{array}{rcccl}
-\text{Stężenie roztworu 1:} & \mathbf{C_1} & & \mathbf{C_k - C_2} & \text{(części masowe roztworu 1)} \\
-& & \searrow \quad \nearrow & & \\
-\text{Stężenie docelowe:} & & \mathbf{C_k} & & \\
-& & \nearrow \quad \searrow & & \\
-\text{Stężenie roztworu 2:} & \mathbf{C_2} & & \mathbf{C_1 - C_k} & \text{(części masowe roztworu 2)} \\
-\end{array}
-$$
-
----
-
-### Krótka ściąga do zadań:
-1.  **Szukasz masy końcowej lub stężenia?** Użyj wzoru: $m_1 C_1 + m_2 C_2 = m_k C_k$.
-2.  **Szukasz stosunku (ile razy więcej jednego od drugiego)?** Użyj metody krzyża.
-3.  **Zamiana stężeń?** Użyj wzoru: $C_m = \frac{C_p \cdot d}{M \cdot 100\%}$.
-
-### 6. Przydatne gęstości i jednostki
-*   $1\ dm^3 = 1000\ cm^3 = 1\ litr$
-*   Gęstość wody $d_{wody} \approx 1\ g/cm^3 = 1000\ g/dm^3$
-*   $1000\ mg = 1\ g$
-
----
 **Zapamiętaj do sprawdzianu:**
 1. Zawsze sprawdzaj, czy objętość jest w $dm^3$ przy $C_m$.
 2. Masa roztworu ($m_r$) to masa substancji + masa wody.
